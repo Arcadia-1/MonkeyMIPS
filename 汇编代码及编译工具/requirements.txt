@@ -1,0 +1,4 @@
+mips-linux-gnu-as
+mips-linux-gnu-ld
+mips-linux-gnu-objcopy
+mips-linux-gnu-objdump
